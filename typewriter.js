@@ -6,4 +6,4 @@ for (const char of sentence) {
   }, count);
   count += 50;
 }
-setTimeout(() => console.log(), count);
+setTimeout(() => console.log(), count); 
